@@ -1,31 +1,94 @@
-from flask import Flask, render_template, jsonify, request
-from map_generator import create_interactive_map, process_click
-from data_loader import load_country_data, load_region_data
+import folium
+import json
+from data_loader import load_csv_data
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# Load data
-country_data = load_country_data("data/countries.csv")
-region_data = load_region_data("data/regions.csv")
+def generate_map(country_data, region_data):
+    """
+    Generate an interactive world map with markers for countries and regions.
+    Clicking a marker highlights its region or area dynamically.
+
+    Parameters:
+    country_data (pd.DataFrame): DataFrame containing country information.
+                                 Columns: ['name', 'latitude', 'longitude', 'info']
+    region_data (pd.DataFrame): DataFrame containing region information.
+                                Columns: ['name', 'latitude', 'longitude', 'info']
+
+    Returns:
+    folium.Map: A folium map object with interactive highlighting.
+    """
+    # Initialize the map with no default tiles
+    m = folium.Map(location=[20, 0], zoom_start=2, control_scale=True, tiles=None)
+
+    # Add Street View (OpenStreetMap)
+    folium.TileLayer(
+        tiles="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        name="Street View",
+        attr="© OpenStreetMap contributors"
+    ).add_to(m)
+
+    # Add Satellite View (Esri)
+    folium.TileLayer(
+        tiles="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        name="Satellite View",
+        attr="Tiles © Esri — Source: Esri, DeLorme, NAVTEQ"
+    ).add_to(m)
+
+    # Load GeoJSON data
+    with open("data/areas.geojson", "r") as f:
+        geojson_data = json.load(f)
+
+    # Create a dictionary of GeoJSON features by name for easy lookup
+    features_by_name = {
+        feature["properties"]["name"]: feature for feature in geojson_data["features"]
+    }
+
+    # Add markers for each country
+    for _, row in country_data.iterrows():
+        name, lat, lon, info = row['name'], row['latitude'], row['longitude'], row['info']
+        folium.Marker(
+            location=[lat, lon],
+            popup=f"<b>{name}</b><br>{info}",
+            tooltip=name,
+            icon=folium.Icon(color="blue", icon="info-sign")
+        ).add_to(m)
+
+    # Add markers for each region
+    for _, row in region_data.iterrows():
+        name, lat, lon, info = row['name'], row['latitude'], row['longitude'], row['info']
+        folium.Marker(
+            location=[lat, lon],
+            popup=f"<b>{name}</b><br>{info}",
+            tooltip=name,
+            icon=folium.Icon(color="green", icon="info-sign")
+        ).add_to(m)
+
+    # Add Layer Control
+    folium.LayerControl().add_to(m)
+
+    return m
 
 @app.route("/")
 def index():
-    """Renders the interactive map."""
-    map_object = create_interactive_map(country_data, region_data)
-    map_object.save("templates/map.html")
-    return render_template("map.html")
+    """
+    Render the main page with the world map.
 
-@app.route("/click", methods=["POST"])
-def handle_click():
+    Returns:
+    str: Rendered HTML template with the embedded map.
     """
-    Handles click events on the map, returning the appropriate information
-    for the clicked location (country or region).
-    """
-    data = request.json  # Expected JSON: { "latitude": float, "longitude": float }
-    latitude = data.get("latitude")
-    longitude = data.get("longitude")
-    clicked_info = process_click(latitude, longitude, country_data, region_data)
-    return jsonify(clicked_info)
+    # Load data
+    country_data = load_csv_data('data/countries.csv')
+    region_data = load_csv_data('data/regions.csv')
+
+    # Generate map
+    map_object = generate_map(country_data, region_data)
+
+    # Save map to an HTML file
+    map_object.save('templates/map.html')
+
+    return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)

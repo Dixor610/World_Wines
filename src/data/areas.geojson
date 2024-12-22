@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spain",
+                "info": "Country in Europe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-9.392883, 43.791356],
+                        [-3.039484, 43.791356],
+                        [-3.039484, 36.000293],
+                        [-9.392883, 36.000293],
+                        [-9.392883, 43.791356]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "France",
+                "info": "Country in Europe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [-4.853828, 51.124199],
+                        [8.235389, 51.124199],
+                        [8.235389, 42.382411],
+                        [-4.853828, 42.382411],
+                        [-4.853828, 51.124199]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Germany",
+                "info": "Country in Europe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [5.865307, 55.081557],
+                        [15.041932, 55.081557],
+                        [15.041932, 47.270112],
+                        [5.865307, 47.270112],
+                        [5.865307, 55.081557]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Penedes",
+                "info": "Wine region in Catalonia"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [1.453516, 41.482804],
+                        [1.798949, 41.482804],
+                        [1.798949, 41.279077],
+                        [1.453516, 41.279077],
+                        [1.453516, 41.482804]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Catalonia",
+                "info": "Autonomous community in northeastern Spain"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [0.151059, 42.787438],
+                        [3.325928, 42.787438],
+                        [3.325928, 40.501994],
+                        [0.151059, 40.501994],
+                        [0.151059, 42.787438]
+                    ]
+                ]
+            }
+        }
+    ]
+}
