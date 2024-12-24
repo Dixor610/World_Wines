@@ -1,18 +1,85 @@
+/* General body styling */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    text-align: center;
+    background-color: #f9f9f9;
 }
 
+/* Center the title */
 h1 {
-    margin: 20px 0;
+    margin: 20px auto; /* Center horizontally */
+    font-size: 24px;
+    color: #333;
+    text-align: center; /* Ensure text inside <h1> is centered */
+    width: 100%; /* Ensure it spans the full width of the page */
 }
 
+/* Map container styling */
 .map-container {
-    width: 80%;
-    height: 80vh;
-    margin: 0 auto;
-    border: 1px solid #ccc;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 85%; /* Set width of map container */
+    height: 85vh; /* Adjust height to fit the viewport */
+    margin: 0 auto; /* Center the map container horizontally */
+    border: 1px solid #ccc; /* Add a border around the map */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for better appearance */
+}
+
+/* Override Leaflet pop-up styling to make it adapt to content */
+.leaflet-popup {
+    max-width: none !important; /* Remove fixed maximum width for pop-up */
+    width: auto !important; /* Allow dynamic width based on content */
+}
+
+.leaflet-popup-content-wrapper {
+    max-width: none !important; /* Remove fixed width constraint for content wrapper */
+    width: auto !important; /* Allow dynamic width based on content */
+}
+
+.leaflet-popup-content {
+    text-align: center; /* Center-align content within the pop-up */
+}
+
+.leaflet-popup-content img {
+    display: block; /* Ensure proper layout for images in pop-ups */
+    max-width: none; /* Allow image to determine width without constraints */
+}
+
+/* Modal styling for enlarged image view */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place relative to the viewport */
+    z-index: 1000; /* Ensure it appears above all other elements */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width of viewport */
+    height: 100%; /* Full height of viewport */
+    overflow: auto; /* Enable scrolling if content overflows viewport */
+    background-color: rgba(0, 0, 0, 0.8); /* Black background with opacity for overlay effect */
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90%; /* Limit size of enlarged image to fit within viewport */
+    max-height: 90%; /* Limit size of enlarged image to fit within viewport */
+}
+
+.modal-content:hover {
+    cursor: zoom-in; /* Indicate zoom capability on hover over image */
+}
+
+.close {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb; /* Change color on hover or focus for better feedback */
+    text-decoration: none;
+    cursor: pointer;
 }

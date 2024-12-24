@@ -7,10 +7,53 @@
     <title>World Wines Map</title>
 </head>
 <body>
-    <h1>World Wines Interactive Map</h1>
+    <h1>World Wines Map</h1>
+    
+    <!-- Form to select map type -->
+    <form method="post" action="/">
+        <label for="map_type">Select Map Type:</label>
+        <select name="map_type" id="map_type">
+            <option value="world_wines">World Regions Map</option>
+            <option value="world_grapes">World Grapes Map</option>
+        </select>
+        <button type="submit">Generate Map</button>
+    </form>
+
+    <!-- Map Container -->
     <div class="map-container">
         {% include "map.html" %}
     </div>
+
+    <!-- Modal for Enlarged Image -->
+    <div id="image-modal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modal-image">
+    </div>
+
+    <!-- JavaScript for Modal -->
+    <script>
+        // Get modal elements
+        const modal = document.getElementById("image-modal");
+        const modalImg = document.getElementById("modal-image");
+        const closeBtn = document.getElementsByClassName("close")[0];
+
+        // Function to open modal with the clicked image
+        function openModal(imageSrc) {
+            modal.style.display = "block";
+            modalImg.src = imageSrc;
+        }
+
+        // Close the modal when clicking on the close button
+        closeBtn.onclick = function() {
+            modal.style.display = "none";
+        };
+
+        // Close the modal when clicking outside the image
+        window.onclick = function(event) {
+            if (event.target === modal) {
+                modal.style.display = "none";
+            }
+        };
+    </script>
 </body>
 </html>
-s

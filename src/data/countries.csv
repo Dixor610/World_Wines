@@ -1,4 +1,24 @@
-name,latitude,longitude,info
-Spain,40.463667,-3.74922,"Capital: Madrid. Known for its art, culture, and food."
-France,46.603354,1.888334,"Capital: Paris. Known for its landmarks and wine."
-Germany,51.165691,10.451526,"Capital: Berlin. Known for its history and innovation."
+país,latitude,longitude,regions,extra
+Portugal,39.55,-8,"Vinho-Verde, Porto and Douro, Däo, Bairrada, Encostas de Aire, Lourinhä, Óbidos, Alenquer, Torres Vedras, Bucelas, Arrudas, Colares, Carcavelos, Palmela, Setúbal, Portalegre, Borba, Redondo, Reguengos, Vidigueira, Lagos, Portimäo, Lagoa, Tavira, Madère, Chaves, Valpaços, Planalto Mirandes, Varosa, Encostas da Nave, Castelo Rodrigo, Pinhel, Laföes, Cova de Beira, Tomar, Acobaça, Santarém, Chamusca, Cartaxo, Almeirim, Coruche, Arrábida, Evora, Granja Amareleja, Moura, Graciosa, Biscoltos, Pico",D.O.C
+Espanya,40.4637,-3.75,"Abona , Alella, Alicante, Almansa, Arlanza, Arribes, Bierzo, Binissalem-Mallorca, Bullas, Calatayud, Campo de Borja, Cariñena, Catalonia, Cava, Chacolí de Álava, Chacolí de Getaria, Chacolí de Vizcaya, Cigales, Conca de Barberá, Condado de Huelva, Costers del Segre, El Hierro, Empordá, Gran Canaria, Jerez-Xérés-Sherry, Jumilla, La Gomera, La Mancha, La Palma, Lanzarote, Malaga, Manchuela, Manzanilla Sanlúcar de Barrameda, Méntrida, Mondéjar, Monterrei, Montilla-Moriles, Montsant, Navarra, Penedés, Pla de Bages, Pla de Llevant, Priorat, Rías Baixas, Ribeira Sacra, Ribeiro, Ribera del Duero, Ribera del Guadiana, Ribera del Júcar, Rioja, Rueda, Sierras de Málaga, Somontano, Tacoronte-Acentejo, Tarragona, Terra Alta, Tierra de León, Tierra del Vino de Zamora, Toro Uclés, Utiel-Requena, Valdeorras, Valdepeñas, Valencia, Güimar Valley Orotava Valley, Wines of Madrid, Ycoden-Daute-Isora, Yecla",D.O.C
+France,46,2,"Champagne, Alsace, Alsace Grand, Cru Crémant d'Alsace, Chablis Beaujolais Brouilly Saint-Amour Fleurie Hermitage Côtes du Rhône Châteauneuf-du-Pape Côtes de Provence Vin de Corse Minervois Limoux Cahors Jurançon Pomerol Saint-Émilion Margaux Médoc Sauternes Pouilly-Fumé Sancerre Vourvray Condrieu Château-Grillet Saint-Joseph Côte-Rôtie Meursault Saint-Émilion Pauillac Côtes d'Auxerre Pays d'Oc Comté-Tolosan Val de Loire Duché d'Uzès",A.O.C
+Italia,41.87,12.57,"Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Friuli-Venezia-Giulia, Lazio, Liguria, Lombardy, Marche, Molise, Umbria, Piedmont, Apulia, Sardina, Sicly, Tuscany, Trentino-Alto-Adige, Aosta Valley, Veneto",D.O.C.G
+Alemanya,51.17,10.45,"Ahr, Baden, Württemberg, Pfalz, Rheinhessen, Nahe, Mosel, Rheingau, Franken, Hessische Bergstrasse, Mittelrhein, Saale-Unstrut, Sachsen",QmP
+Austria,47.5162 ,14.5501 ,"Styria, Burgenland, Lower Austria",D.A.C.
+Hungria,47.16,19.50,"Pannonia Superior Borrégio, Balatoni Borrégió, Pannon Borrégió, Duna Borrégió, Észak-Magyarországi Borrégió",O.E.M
+Grecia,39.07,21.82,"Creta, Egeo, Meridional, Egeo Septentrional, Epiro, Grecia Central, Grecia Occidental, Islas Jónicas, Macedonia Central, Macedonia Occidental, Macedonia Oriental y Tracia, Peloponeso, Tesalia",D.O.C / D.O.C.S
+Croacia,45.1667 ,15.5000 ,"Zagorje – Medimurje, Plesivica, Pokuplje, Moslavina, Prigorje – Bilogora, Slavonia, Podunavlje, Hrvatska Istra, Hrvatska Primorje, Sjeverna Dalmacija, Dalmatinska Zagora, Srednja i Juzna",-
+Romania,45.94,24.97,"Transilvania, Valaquia, Moldavia, Dobruja",D.O.P
+Bulgaria,42.7663 ,25.2386 ,"Satruma Valley, Thracan Valley, Rose Valley, Black Sea, Danubian Plain",D.O.P
+Canada,62.4000 ,-96.4670 ,"British Columbia, Quebec, Ontario, Nova Scotia",V.Q.A
+Estats_Units,37.09,-95.71,"California, Oregon, Washington, Pennsylvania, Conectica, Massachussets",m
+Mexic,23.63,-102.55,"Baja Norte, Sonora, Durango, Coahuila, Acatecas, Aguascalientes, Queretaro",m
+Brasil,-14.24,-51.93,"Vale do Säo Francisco, Planato Catarinese, Campos de Cima de Serra, Serra Gaúcha, Serra do Sudeste, Campanha Gaúcha",m
+Uruguay,-32.52,-55.77,"Canelones, San José, Colonia Artigas, Rivera, Salto, Paysandú, Florida, Montevideo, Madonado",Tannat
+Peru,-9.19,-75.02,"Ica, Lima, Moquegua, Arequipa, Ancash, La Libertad",m
+Xile,-35.68,-71.54,"Valle del Elqui, Valle del Limarí, Valle del Choapa, Valle del Aconcagua, Valle de Casablanca, Valle de San Antonio, Valle del Maipo, Valle del Cachapoal, Valle de Colchagua, Marchigüe, Lolol, Valle de Curicó, Valle del Maule, Valle del Itata, Valle del Biobío, Valle del Malleco",Carménère
+Argentina,-38.42,-63.62,"Salta, Tucumán, Catamarca, La Rioja, San Juan, Mendoza, La Pampa, Río Negro",m
+Australia,-25.27,133.78,"Western, South, Victoria, New South Wales, Tasmania, South Burnett, Granite Belt",m
+Nova_Zelanda,-40.9,174.89,"Central Otago, Canterbury, Nelson, Marlborough, Waipara, Hawke’s Bay, Gisborne, Waikato, Auchland, Northland",m
+Sud_Africa,-30.56,22.94,"Breedekloof, Robertson, Worcester, Cape Agulhas, Overberg, Plettenberg Bay, Walker Bay, Elgin, Swellendam, Stellenbosch, Paarl, Swartland, Darling, Tulbagh, Wellington, Tygerberg, Constantia, Franschhoek Valley, Klein Karoo, Calitzdorp, Langbereg-Garcia, Olifants River",m
+Liban,33.8736 ,35.8637 ,"Batroun, Central Bekaa, The West Bekaa, Baabda-Aley, Keserwan, Metn, Chouf, Jezzine",-

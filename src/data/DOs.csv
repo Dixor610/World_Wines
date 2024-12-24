@@ -1,0 +1,305 @@
+DO,latitude,longitude,raims_blancs,raims_negres,extra,country
+Vinho Verde,41.14333,-8.66944,"Albariño, Loureiro, Trajadura, Arinto, Azal ","Alvarelhão, Borraçal, Pedral, Vinhão",,Portugal
+Trás-os-Montes,41.51556,-7.73333,,"Bastardo, Touriga Nacional, Touriga Franca, Cabernet Sauvignon, Trincadeira",,Portugal
+Porto and Douro,41.14333,-8.66944,,"Touriga Nacional, Touriga Franca, Tempranillo, Tinta Barroca, Tinto Cão, Alicante Bouschet",,Portugal
+Távora and Varosa,41.14333,-8.66944,"MalvasiaFina, Sercial, Verdejo, Bual",,,Portugal
+Dão and Lafões,40.525,-7.86667,"Encruzado, Bical, Cercial, Malvasia","Touriga Nacional, Alfrocheiro, Jaen, Aragonês, Rufete",,Portugal
+Bairrada,40.21667,-8.43333,"Bical, Fernão Pires, Cercial, Sercialinho, Chardonnay, Sauvignon Blanc","Baga, Touriga Nacional, Merlot, Cabernet Sauvignon, Syrah, Tempranillo",,Portugal
+Beira Interior,40.525,-7.86667,"Siria, Arinto, Fonte Cal, Malvasia, Fernão Pires","Touriga Nacional, Tempranillo, Rufete, Bastardo, Marufo",,Portugal
+Lisboa,39.03333,-9.16667,"Arinto, Fernão Pires, Malvasia, Seara Nova, Vital","Castel, Tinta Miúda, Touriga Franca, Touriga Nacional, Trincadeira",,Portugal
+Tejo,39.45,-8.3,"Verdejo, Albariño, Arinto, Fernão Pires","Touriga Nacional, Trincadeira, Castel, Tempranillo",,Portugal
+Península de Setúbal,38.5,-8.5,"Moscatel de Setúbal, Fernão Pires, Arinto, Chardonnay","Castel, Touriga Nacional, Touriga Franca, Aragonês, Trincadeira Preta",,Portugal
+Alentejo,37.25,-7.91667,"Antão Vaz, Fernão Pires, Rabo de Ovelha, Roupeiro","Alfrocheiro, Moreto, Periquita, Trincadeira, Alicante Bouschet, Castel, Touriga Nacional",,Portugal
+Algarve,37.11667,-8.01667,"Siria, Arinto, MalvasiaFina","Syrah, Cabernet Sauvignon, Negra Mole, Trincadeira, Castel",,Portugal
+Madeira,32.63333,-16.93333,"Malvasia, Sercial, Verdejo, Bual",,,Portugal
+Açores,37.75,-25.68333,"Verdejo, Arinto, Terrantez, Sercial, Malvasia","Aragonês, Touriga Nacional, Tempranillo",,Portugal
+Abona,28.11882,-16.57599,"Listán Blanco, Malvasia, Marmajuelo","Listán Negro, Negramoll",,Spain
+Alella,41.4939555,2.295461,"Xarel·lo, Garnacha Blanca","Tempranillo, Merlot",,Spain
+Alicante,38.34517,-0.48149,"Moscatell de Alejandría, Macabeo","Monastrell, Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Almansa,38.86917,-1.09713,,"Monastrell, Cencibel, Garnacha, Garnacha, Cabernet Sauvignon, Merlot, Syrah, Petit Verdot",,Spain
+Arlanza,42.0471,-3.72219,"Albillo, Viura","Tempranillo, Garnacha, Mencía, Cabernet Sauvignon, Merlot, Petit Verdot",,Spain
+Arribes,41.3166,-6.3972,"Malvasia Castellana, Doña Blanca, Puesta en Cruz","Juan García, Bruñal, Mencía, Rufete, Bastardillo Chico, Tinto Jeromo, Mandón, Gajo Arroba",,Spain
+Bierzo,42.655389,-6.614798,"Godello, Doña Blanca","Mencía, Garnacha, Tempranillo",,Spain
+Binissalem-Mallorca,39.6844,2.8468,"Prensal Blanc, Macabeo, Chardonnay","Manto Negro, Callet, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Bullas,38.04667,-1.67227,"Macabeo, Airén, Merseguera","Monastrell, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Calatayud,41.3543224,-1.6470086,"Macabeo, Garnacha Blanca, Chardonnay","Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Campo de Borja,41.834824,-1.533754,"Macabeo, Garnacha Blanca, Chardonnay","Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Cariñena,41.3370805,-1.2241497,"Macabeo, Garnacha Blanca, Chardonnay","Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Catalonia,41.4,2.1,"Xarel·lo, Macabeo, Parellada, Chardonnay, Sauvignon Blanc","Garnacha, Cariñena, Monastrell, Tempranillo, Sumoll",,Spain
+Cava,42.3252871,1.6055202,"Xarel·lo, Macabeo, Parellada, Chardonnay, Subirat Parent (Malvasia)","Garnacha, Monastrell, Pinot Noir",,Spain
+Chacolí de Álava,43.047817,-2.621613,Hondarrabi Zuri,,,Spain
+Chacolí de Getaria,,,Hondarrabi Zuri,,,Spain
+Chacolí de Vizcaya,43.262985,-2.935013,Hondarrabi Zuri,,,Spain
+Cigales,41.7582,-4.69958,"Verdejo, Viura","Tempranillo, Garnacha",,Spain
+Conca de Barberá,41.3667,1.15,"Macabeo, Parellada, Chardonnay","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Condado de Huelva,37.25,-6.95,"Zalema, Palomino",,,Spain
+Costers del Segre,41.5991,0.5812,"Macabeo, Parellada, Chardonnay, Sauvignon Blanc","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah",,Spain
+El Hierro,27.75,-18.0,Verijadiego Blanco,,,Spain
+Empordá,42.2758,3.0691,"Garnacha Blanca, Macabeo, Chardonnay","Garnacha, Cariñena, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Gran Canaria,27.9582,-15.5965,Albillo,,,Spain
+Jerez-Xérés-Sherry,36.681667,-6.137778,"Palomino, Pedro Ximénez, Moscatell",,,Spain
+Jumilla,38.47917,-1.325,"Macabeo, Airén, Merseguera","Monastrell, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+La Gomera,28.116667,-17.216667,Forastera Blanca,,,Spain
+La Mancha,39.40111,-3.015,"Airén, Macabeo, Chardonnay, Sauvignon Blanc, Verdejo","Tempranillo, Cabernet Sauvignon, Petit Verdot, Garnacha, Alicante Bouschet, Monastrell, Syrah, Bobal",,Spain
+La Palma,28.6667,-17.8667,Albillo,,,Spain
+Lanzarote,29.035,-13.633,Malvasia Volcánica,,,Spain
+Malaga,36.72016,-4.42034,"Moscatell de Alejandría, Pedro Ximénez, Chardonnay, Macabeo, Colombard, Sauvignon Blanc, Lairen, Doradilla, Gewürztraminer, Riesling, Verdejo, Viognier, Romé","Cabernet Sauvignon, Merlot, Syrah, Tempranillo, Garnacha, Cabernet Franc, Pinot Noir, Petit Verdot, Graciano, Malbec, Monastrell, Tintilla",,Spain
+Manchuela,39.367,-1.7,"Macabeo, Airén, Merseguera","Monastrell, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Manzanilla Sanlúcar de Barrameda,36.77808,-6.3515,Palomino,,,Spain
+Méntrida,40.2344,-4.195,"Malvar, Albillo","Garnacha, Tempranillo, Cabernet Sauvignon, Graciano, Merlot, Petit Verdot, Syrah",,Spain
+Mondéjar,40.32095,-3.10686,,"Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Monterrei,41.96333,-7.44917,"Godello, Treixadura, Loureiro, Doña Blanca","Mencía, Brancellao, Sousón, Tempranillo",,Spain
+Montilla-Moriles,37.58627,-4.63805,"Pedro Ximénez, Airén",,,Spain
+Montsant,41.29,0.808,"Garnacha Blanca, Macabeo, Chardonnay","Garnacha, Cariñena, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Navarra,42.816666,-1.65,"Garnacha Blanca, Chardonnay, Viura, Sauvignon Blanc, Moscatell de Grano Menudo","Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Graciano, Syrah",,Spain
+Penedés,41.2893,1.749572,"Xarel·lo, Macabeo, Parellada, Chardonnay, Sauvignon Blanc","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah, Sumoll",,Spain
+Pla de Bages,41.7206,1.8397,"Macabeo, Chardonnay, Sauvignon Blanc","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah, Sumoll",,Spain
+Pla de Llevant,39.51398,3.02364,"Prensal Blanc, Macabeo, Chardonnay","Manto Negro, Callet, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Priorat,41.165,0.76,"Garnacha Blanca, Macabeo, Chardonnay","Garnacha, Cariñena, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Rías Baixas,42.3533841,-7.8778072,"Albariño, Loureiro, Treixadura, Godello, Torrontés",,,Spain
+Ribeira Sacra,42.5195881,-7.5141181,"Godello, Treixadura, Loureiro, Albariño","Mencía, Brancellao, Sousón, Tempranillo",,Spain
+Ribeiro,42.5,-8.1,"Treixadura, Godello, Loureiro, Albariño, Torrontés",,,Spain
+Ribera del Duero,41.659112,-3.681587,Albillo,"Tempranillo, Cabernet Sauvignon, Merlot, Malbec, Garnacha",,Spain
+Ribera del Guadiana,38.683,-6.4,"Pardina, Cayetana Blanca, Eva, Macabeo, Chardonnay, Chelva, Beba de Los Santos, Malvar, Parellada, Pedro Ximénez, Verdejo","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah, Monastrell",,Spain
+Ribera del Júcar,39.367,-2.2,,"Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Rioja,42.4631,-2.4245,"Viura, Malvasia, Garnacha Blanca, Tempranillo Blanco, Chardonnay","Tempranillo, Garnacha, Graciano, Mazuelo",,Spain
+Rueda,41.649693,-3.700845,"Verdejo, Sauvignon Blanc, Viura, Chardonnay, Viognier, Palomino, Garnacha, Merlot, Cabernet Sauvignon, Syrah",,,Spain
+Sierras de Málaga,36.72016,-4.42034,"Moscatell de Alejandría, Pedro Ximénez, Chardonnay, Macabeo, Colombard, Sauvignon Blanc, Lairen, Doradilla, Gewürztraminer, Riesling, Verdejo, Viognier, Romé, Cabernet Sauvignon, Merlot, Syrah, Tempranillo, Garnacha, Cabernet Franc, Pinot Noir, Petit Verdot, Graciano, Malbec, Monastrell, Tintilla",,,Spain
+Somontano,42.0471,-0.48149,"Macabeo, Garnacha Blanca, Chardonnay, Alcañón, Gewürztraminer, Riesling, Sauvignon Blanc, Cabernet Sauvignon, Garnacha, Merlot, Moristel, Parraleta, Pinot Noir, Syrah, Tempranillo",,,Spain
+Tacoronte-Acentejo,28.466667,-16.333333,"Listán Blanco, Gual, Verdejo, Malvasia, Moscatell, Vijariego","Listán Negro, Negramoll",,Spain
+Tarragona,41.11882,1.24556,"Macabeo, Parellada, Chardonnay","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Terra Alta,40.983333,0.5,"Garnacha Blanca, Macabeo, Parellada","Garnacha, Cariñena, Syrah",,Spain
+Tierra de León,42.600000,-5.566667,"Albarín Blanco, Verdejo","Prieto Picudo, Mencía, Tempranillo",,Spain
+Tierra del Vino de Zamora,41.500000,-5.750000,"Verdejo, Viura","Tempranillo, Garnacha, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Toro,41.516667,-5.383333,"Verdejo, Malvasia Castellana, Albillo, Moscatell de Grano Menudo","Tinta de Toro, Garnacha",,Spain
+Uclés,39.983333,-2.816667,"Macabeo, Airén, Merseguera","Tempranillo, Cabernet Sauvignon, Merlot, Syrah, Garnacha",,Spain
+Utiel-Requena,39.400000,-1.166667,"Macabeo, Chardonnay, Sauvignon Blanc","Bobal, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Valdeorras,42.416667,-7.016667,"Godello, Doña Blanca, Palomino","Mencía, Garnacha, Tempranillo",,Spain
+Valdepeñas,38.750000,-3.383333,"Airén, Macabeo, Chardonnay, Sauvignon Blanc, Verdejo","Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Valencia,39.466667,-0.383333,"Moscatell, Merseguera, Macabeo","Monastrell, Tempranillo, Bobal, Garnacha, Cabernet Sauvignon",,Spain
+Güimar Valley,28.316667,-16.416667,"Listán Blanco, Gual, Malvasia Blanco","Listán Negro, Negramoll, Cabernet Sauvignon, Merlot, Pinot Noir, Ruby Cabernet, Syrah, Tempranillo",,Spain
+Orotava Valley,28.383333,-16.516667,"Listán Blanco, Gual, Forastera Blanca, Malvasia","Listán Negro, Negramoll, Tintilla, Vijariego Negro",,Spain
+Madrid,40.416667,-3.700000,"Malvar, Albillo","Garnacha, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Ycoden-Daute-Isora,28.250000,-16.750000,"Listán Blanco, Malvasia, Moscatell","Listán Negro, Negramoll",,Spain
+Yecla,38.616667,-1.116667,"Macabeo, Airén, Merseguera","Monastrell, Tempranillo, Cabernet Sauvignon, Merlot, Syrah",,Spain
+Champagne,49.05,4.03,"Chardonnay, Pinot Blanc","Pinot Noir, Pinot Meunier",,France
+Alsace AOC,48.32,7.75,"Riesling, Gewürztraminer, Pinot Gris, Muscat",Pinot Noir,,France
+Alsace Grand Cru AOC,48.32,7.75,"Riesling, Gewürztraminer, Pinot Gris, Muscat",Pinot Noir,,France
+Crémant d'Alsace AOC,48.32,7.75,"Pinot Blanc, Chardonnay, Riesling",Pinot Noir,,France
+Chablis,47.81,3.80,Chardonnay,,,France
+Beaujolais,46.10,4.65,"Chardonnay, Aligote",Gamay Noir,,France
+Brouilly,46.07,4.60,,Gamay Noir,,France
+Saint-Amour,46.30,4.90,,Gamay Noir,,France
+Fleurie,46.25,4.68,,Gamay Noir,,France
+Hermitage,45.06,4.83,"Marsanne, Roussanne",Syrah,,France
+Côtes du Rhône,44.25,4.75,"Garnacha Blanc, Marsanne, Roussanne, Viognier","Garnacha, Syrah, Mourvèdre",,France
+Châteauneuf-du-Pape,44.05,4.83,"Garnacha Blanc, Roussanne, Clairette","Garnacha, Syrah, Mourvèdre",,France
+Côtes de Provence,43.53,6.00,"Vermentino, Clairette","Garnacha, Syrah, Mourvèdre, Cinsault",,France
+Vin de Corse,42.00,9.00,Vermentino,"Nielluccio, Sciacarello",,France
+Minervois,43.28,2.72,"Garnacha Blanc, Marsanne, Roussanne","Garnacha, Syrah, Cariñena",,France
+Limoux,43.06,2.22,"Mauzac, Chardonnay","Merlot, Syrah",,France
+Cahors,44.45,1.44,,Malbec,,France
+Jurançon,43.33,-0.35,"Petit Manseng, Gros Manseng",,,France
+Pomerol,44.93,-0.22,,"Merlot, Cabernet Franc",,France
+Saint-Émilion,44.89,-0.22,Sauvignon Blanc,"Merlot, Cabernet Franc",,France
+Margaux,45.03,-0.22,Sauvignon Blanc,"Cabernet Sauvignon, Merlot",,France
+Médoc,45.04,-0.24,,"Cabernet Sauvignon, Merlot",,France
+Sauternes,44.53,-0.19,"Semillón, Sauvignon Blanc, Muscadelle",,,France
+Pouilly-Fumé,47.29,2.52,Sauvignon Blanc,,,France
+Sancerre,47.32,2.84,Sauvignon Blanc,Pinot Noir,,France
+Vourvray,47.27,0.34,Chenin Blanc,,,France
+Condrieu,45.47,4.80,Viognier,,,France
+Château-Grillet,45.43,4.73,Viognier,,,France
+Saint-Joseph,45.15,4.72,"Marsanne, Roussanne",Syrah,,France
+Côte-Rôtie,45.24,4.82,Viognier,Syrah,,France
+Meursault,47.00,3.64,Chardonnay,Pinot Noir,,France
+Pauillac,45.19,-0.30,,"Cabernet Sauvignon, Merlot",,France
+Côtes d'Auxerre,47.79,3.57,Chardonnay,Pinot Noir,,France
+Pays d'Oc,43.59,3.10,"Chardonnay, Sauvignon Blanc, Viognier","Syrah, Merlot, Cabernet Sauvignon",,France
+Comté-Tolosan,44.06,-1.43,"Colombard, Gros Manseng","Merlot, Tannat",,France
+Val de Loire,47.27,0.32,"Chenin Blanc, Sauvignon Blanc, Melon de Bourgogne","Cabernet Franc, Gamay Noir",,France
+Duché d'Uzès,44.00 ,3.48 ,"Viognier, Roussanne","Syrah, Garnacha",,France
+Abruzzo,42.349850,13.399509,"Trebbiano, Pecorino, Montonico ",Montepulciano,,Italy
+Basilicata,40.666668,16.600000,"Malvasia Bianca di Basilicata, Greco","Sangiovese, Primitivo, Montepulciano, Merlot, Cabernet Sauvignon",,Italy
+Calabria,38.111389,15.661944,"Greco Bianco, Mantonico Bianco, Ciro Bianco ","Gaglioppo, Magliocco, GrecoNero, Aglianico",,Italy
+Campania,41.133331,14.783333,"Fiano, Greco, Falanghina, Coda di Volpe ","Aglianico, Piedirosso",,Italy
+Emilia-Romagna,44.494887,11.342616,"Trebbiano, Pignoletto, Malvasia, Albana","Sangiovese, Lambrusco, Bonarda, Malbo Gentile, Ciliegiolo, Uva Tosca",,Italy
+Friuli-Venezia-Giulia,46.073055,13.235555,"Chardonnay, Friulano, MalvasiaIstriana, Picolit, Pinot Grigio, Pinot Blanc, Ribolla Gialla, Riesling, Friulano, Verdejo, Vitovska ","Cabernet Franc, Cabernet Sauvignon, Merlot, Pinot Noir, Refosco dal Peduncolo Rosso, Schioppettino",,Italy
+Lazio,41.902783,12.496366,"Bombino Bianco, Bellone Bianco, Greco, Trebbiano, Malvasiadi Candia, MalvasiaPuntinata, Chardonnay, Sauvignon Blanc","Cesanese, Sangiovese, Merlot, Cabernet Sauvignon",,Italy
+Liguria,44.405650,8.946256,"Vermentino, Pigato, Albarola, Bianchetta Genovese ","Rossese, Ciliegiolo, Dolcetto",,Italy
+Lombardy,45.464204,9.189982,"Chardonnay, Pinot Blanc, Riesling, Sauvignon Blanc, Trebbiano di Lugana","Barbera, Bonarda, Cabernet Franc, Cabernet Sauvignon, Merlot, Nebbiolo, Pinot Noir",,Italy
+Marche,43.616943,13.516667,"Verdejo, Pecorino, Passerina, Trebbiano, Vernaccia, Albana, Biancame, Maceratino ","Montepulciano, Sangiovese, Lacrima",,Italy
+Molise,41.699700,14.611100,"Chardonnay, Falanghina, Fiano, Greco, Malvasia, Moscatell, Pinot Blanc, Pinot Grigio, Sauvignon Blanc, Trebbiano","Aglianico, Cabernet Sauvignon, Merlot, Montepulciano, Pinot Noir, Sangiovese",,Italy
+Umbria,42.565044,12.643751,"Trebbiano, Grechetto ","Sangiovese, Sagrantino",,Italy
+Piedmont,45.266800,7.916750,"Cortese, Arneis, MoscatellBianco, Erbaluce, Nascetta ","Nebbiolo, Barbera, Dolcetto, Freisa, Grignolino, Brachetto",,Italy
+Apulia (Puglia),41.005200,16.507700,"Verdejo, Fiano, Moscatell","Primitivo, Negroamaro, Susumaniello",,Italy
+Sardinia (Sardegna),40.120875,9.012892,"Vermentino, Nuragus, Torbato, Vernaccia di Oristano, Semidano, Moscatell","Cannonau, Cariñena, Monica, Bovale Sardo",,Italy
+Sicily (Sicilia),37.599994,14.015356,"Grillo, Cataratto, Inzolia, Moscatell, Zibibbo, Carricante ","Nero d'Avola, Frappato, Nerello Mascalese, Perricone",,Italy
+Tuscany (Toscana),43.771051,11.248621,"Vernaccia di San Gimignano, Vermentino, Malvasiadel Chianti, Trebbiano ","Sangiovese, Canaiolo Nero, Colorino, Ciliegiolo, Aleatico",,Italy
+Trentino-Alto-Adige,46.066666,11.116667,"Müller-Thurgau, Riesling Italico, Pinot Blanc, Pinot Grigio, Sauvignon Blanc, Chardonnay, Gewürztraminer, Moscatell","Vernatsch, Pinot Noir, Lagrein, Marzemino, Teroldego",,Italy
+Aosta Valley (Valle d'Aosta),45.734955,7.313076,"Prié Blanc, MoscatellBianco, Chardonnay, Pinot Grigio, Petit Arvine ","Nebbiolo, Petit Rouge, Fumin, Vuillermin, Cornalin, Mayolet, Roussin de Morgex ",,Italy
+Veneto,45.433334,10.983333,"Garganega, Trebbiano di Soave, Chardonnay, Pinot Grigio, Glera, Verdejo, Vespaiola ","Corvina, Rondinella, Molinara, Cabernet Sauvignon, Merlot, Raboso, Marzemino, Refosco dal Peduncolo Rosso",,Italy
+Ahr,50.5333,7.1333,"Riesling, Silvaner, Ruländer, Kerner, Weißburgunder, Chardonnay, Müller-Thurgau","Pinot Noir, Frühburgunder (Pinot Madeleine), Portugieser, Dornfelder",,Alemanya
+Baden,48.0000,8.0000,"Müller-Thurgau, Riesling, Weißburgunder, Grauburgunder, Gutedel, Chardonnay, Gewürztraminer, Sauvignon Blanc, Moscatell","Pinot Noir, Cabernet Sauvignon, Merlot",,Alemanya
+Württemberg,48.7784,9.1796,Riesling,"Trollinger, Lemberger (Lemberger), Pinot Noir, Pinot Meunier",,Alemanya
+Pfalz,49.4179,8.2168,"Riesling, Pinot Blanc, Pinot Gris, Gewürztraminer, Silvaner, Müller-Thurgau, Kerner","Dornfelder, Portugieser, Pinot Noir",,Alemanya
+Rheinhessen,49.8333,8.1667,"Riesling, Müller-Thurgau, Silvaner, Pinot Gris, Pinot Blanc","Dornfelder, Portugieser, Pinot Noir",,Alemanya
+Nahe,49.8167,7.6500,"Riesling, Müller-Thurgau, Silvaner, Pinot Gris, Pinot Blanc","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Mosel,49.7500,6.7500,"Riesling, Müller-Thurgau, Elbling, Pinot Blanc","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Rheingau,50.0333,8.0333,"Riesling, Müller-Thurgau, Weißburgunder, Grauburgunder, Kerner","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Franken (Franconia),49.8000,10.2333,"Silvaner, Müller-Thurgau, Bacchus, Riesling","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Hessische Bergstrasse,49.7170,8.6170,"Riesling, Pinot Gris, Müller-Thurgau","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Mittelrhein,50.2500,7.6000,"Riesling, Müller-Thurgau, Kerner, Pinot Blanc, Scheurebe","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Saale-Unstrut,51.2000,11.7000,"Müller-Thurgau, Pinot Blanc, Silvaner, Riesling, Bacchus","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Sachsen (Saxony),51.0504,13.7373,"Müller-Thurgau, Riesling, Weißburgunder, Grauburgunder, Elbling, Goldriesling, Scheurebe","Pinot Noir, Dornfelder, Portugieser",,Alemanya
+Styria,47.2500,15.1667,"Welschriesling, Sauvignon Blanc, Weißburgunder, Grauburgunder, Morillon, Moscatell, Riesling, Traminer","Zweigelt, Lemberger, St. Laurent, Pinot Noir",,Austria
+Burgenland,47.5000,16.4167,"Welschriesling, Grüner Veltliner, Chardonnay, Pinot Blanc, Neuburger, Moscatell, Traminer, Sauvignon Blanc, Muscat Ottonel, Bouvier, Müller-Thurgau, Scheurebe, Riesling, Pinot Gris, Gold muscatel, Muscat Blossom, Goldburger, Furmint, Souvignier Gris, Frühroter Veltliner, Muscaris, Sylvaner, Zierfandler, Rotgipfler","Zweigelt, Lemberger, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon, Roesler, Cabernet Franc, Syrah, Rathay, Rose muscatel, Blauer Portugieser",,Austria
+Lower Austria,48.3333,15.7500,"Grüner Veltliner, Riesling, Chardonnay, Pinot Blanc, Neuburger, Moscatell, Traminer, Welschriesling, Rotgipfler, Zierfandler, Roter Veltliner, Goldburger, Sylvaner, Furmint, Jubiläumsrebe, Blütenmuskateller, Muscaris","Zweigelt, Lemberger, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon, Syrah",,Austria
+Pannonia Superior Borrégió,47.0000,18.0000,"Welschriesling, Grüner Veltliner, Chardonnay, Pinot Blanc, Neuburger, Moscatell, Traminer, Sauvignon Blanc, Muscat Ottonel, Bouvier, Müller-Thurgau, Scheurebe, Riesling, Pinot Gris, Gold muscatel, Muscat Blossom, Goldburger, Furmint, Souvignier Gris, Frühroter Veltliner, Muscaris, Sylvaner, Zierfandler, Rotgipfler","Zweigelt, Lemberger, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon, Roesler, Cabernet Franc, Syrah, Rathay, Rose muscatel, Blauer Portugieser",,Hungria
+Balatoni Borrégió,46.8000,17.7000,"Olasz rizling, Szürkebarát, Chardonnay, Moscatell Ottonel, Sauvignon Blanc, Cserszegi fűszeres, Ezerjó, Furmint, Hárslevelű, Irsai Olivér, Juhfark, Királylányka, Welschriesling, Muscat Ottonel, Pinot Blanc, Rheinriesling, Riesling Sylvaner, Muscat Lunel, Sauvignon, Szürkebarát, Traminer, Viognier, Zöld veltelini, Sárfehér","Cabernet Sauvignon, Kékfrankos, Zweigelt",,Hungria
+Pannon Borrégió,46.0000,18.0000,"Welschriesling, Grüner Veltliner, Chardonnay, Pinot Blanc, Neuburger, Moscatell, Traminer, Sauvignon Blanc, Muscat Ottonel, Bouvier, Müller-Thurgau, Scheurebe, Riesling, Pinot Gris, Gold muscatel, Muscat Blossom, Goldburger, Furmint, Souvignier Gris, Frühroter Veltliner, Muscaris, Sylvaner, Zierfandler, Rotgipfler","Zweigelt, Lemberger, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon, Roesler, Cabernet Franc, Syrah, Rathay, Rose muscatel, Blauer Portugieser",,Hungria
+Duna Borrégió,46.8000,19.5000,"Chardonnay, Cserszegi fűszeres, Ezerjó, Furmint, Hárslevelű, Irsai Olivér, Juhfark, Királylányka, Welschriesling, Muscat Ottonel, Pinot Blanc, Rheinriesling, Riesling Sylvaner, Muscat Lunel, Sauvignon, Szürkebarát, Traminer, Viognier, Zöld veltelini, Sárfehér","Cabernet Sauvignon, Kékfrankos, Zweigelt",,Hungria
+Észak-Magyarországi Borrégió,48.0000,20.5000,"Welschriesling, Grüner Veltliner, Chardonnay, Pinot Blanc, Neuburger, Moscatell, Traminer, Sauvignon Blanc, Muscat Ottonel, Bouvier, Müller-Thurgau, Scheurebe, Riesling, Pinot Gris, Gold muscatel, Muscat Blossom, Goldburger, Furmint, Souvignier Gris, Frühroter Veltliner, Muscaris, Sylvaner, Zierfandler, Rotgipfler","Zweigelt, Lemberger, St. Laurent, Pinot Noir, Merlot, Cabernet Sauvignon, Roesler, Cabernet Franc, Syrah, Rathay, Rose muscatel, Blauer Portugieser",,Hungria
+Creta (Crete),35.4174,24.5300,"Vilana, Vidiano, Dafni, Thrapsathiri, Malvazia di Candia, Muscat of Spina, Plyto","Kotsifali, Mantilari, Liatiko, Tsardana, Romeiko",,Grecia
+Egeo Meridional (South Aegean),37.7090,26.6890,"Assyrtiko, Athiri, Monemvassia, Mandilaria","Avgoustiatis, Mandilaria",,Grecia
+Egeo Septentrional (North Aegean),39.0000,26.0000,"Muscat Blanc, Athiri","Avgoustiatis, Mandilaria",,Grecia
+Epiro (Epirus),39.5661,20.7583,"Debina, Vlahiko, Bekari, Assyrtiko","Vlachiko, Xinomavro",,Grecia
+Grecia Central (Central Greece),38.6000,22.8000,"Savatiano, Roditis, Assyrtiko, Athiri, Malagousia","Mouchtaro, Mandilaria, Cabernet Sauvignon, Cabernet Franc, Merlot, Syrah",,Grecia
+Grecia Occidental (Western Greece),38.5000,21.8333,"Roditis, Muscat","Agiorgitiko, Mavrodaphne",,Grecia
+Islas Jónicas (Ionian Islands),37.8000,20.7000,"Robola, Tsaoussi",Avgoustiatis,,Grecia
+Macedonia Central (Central Macedonia),40.7000,23.0000,Malagousia,Xinomavro,,Grecia
+Macedonia Occidental (Western Macedonia),40.4167,21.2667,Malagousia,Xinomavro,,Grecia
+Macedonia Oriental y Tracia (Eastern Macedonia and Thrace),41.0000,25.0000,Malagousia,Xinomavro,,Grecia
+Peloponeso (Peloponnese),37.5000,22.2000,"Moschofilero, Roditis, Lagorthi","Agiorgitiko, Mavrodaphne, Avgoustiatis",,Grecia
+Tesalia (Thessaly),39.6000,22.2000,Malagousia,Limniona,,Grecia
+Zagorje – Međimurje,46.1000,16.2000,,,,Grecia
+Plešivica,45.7167,15.6667,"Chardonnay, Sauvignon Blanc, Riesling, Graševina, Pinot Blanc, Pinot Gris, Sylvaner, Müller-Thurga, Traminer, Muscat Blanc, Muscat Ottonel","Pinot Noir, Portugieser",,Croacia
+Pokuplje,45.5000,15.5833,"Graševina, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Traminer, Muscat Blanc, Muscat Ottonel","Lemberger, Merlot, Cabernet Sauvignon, Zweigelt",,Croacia
+Moslavina,45.5700,16.7700,"Škrlet, Graševina, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Traminer, Muscat Blanc, Muscat Ottonel","Lemberger, Merlot, Cabernet Sauvignon, Zweigelt",,Croacia
+Prigorje – Bilogora,45.8333,16.8333,"Graševina, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Traminer, Muscat Blanc, Muscat Ottonel","Lemberger, Merlot, Cabernet Sauvignon, Zweigelt",,Croacia
+Slavonia,45.0000,18.0000,"Graševina, Chardonnay, Riesling, Traminer, Pinot Grigio, Sauvignon Blanc","Lemberger, Merlot, Cabernet Sauvignon, Zweigelt, Pinot Noir",,Croacia
+Podunavlje (Danube),45.4667,18.8667,"Graševina, Chardonnay, Riesling, Traminer, Pinot Grigio, Sauvignon Blanc","Lemberger, Merlot, Cabernet Sauvignon, Zweigelt, Pinot Noir",,Croacia
+Hrvatska Istra (Istria),45.2000,13.8667,"MalvasiaIstriana, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel","Teran, Merlot, Cabernet Sauvignon, Lemberger",,Croacia
+Hrvatsko Primorje (Primorje),45.1167,14.8000,"Žlahtina, Sansigot, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel","Merlot, Cabernet Sauvignon, Lemberger",,Croacia
+Sjeverna Dalmacija (North Dalmatia),44.0000,15.5000,"Maraština, Debit, Pošip, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel","Plavina, Babić, Lasina, Merlot, Syrah",,Croacia
+Dalmatinska Zagora (Dalmatian Hinterland),43.7000,16.6000,"Kujundžuša, Zlatarica, Žilavka, Medna, Graševina, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel","Trnjak, Vranac, Plavina, Merlot, Cabernet Sauvignon, Lemberger",,Croacia
+Srednja i Južna Dalmacija (Central and South Dalmatia),43.0000,17.2000,"Pošip, Grk, Maraština, Dubrovnik Malvasia, Vugava, Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel","Plavac Mali, Tribidrag (Crljenak), Plavina, Merlot, Cabernet Sauvignon, Lemberger",,Croacia
+Transilvania (Transylvania),46.766666,23.583332,"Fetească Regală, Fetească Albă, Muscat Ottonel, Sauvignon Blanc, Chardonnay, Pinot Gris","Pinot Noir, Merlot, Cadarca",,Romania
+Valaquia (Wallachia),44.933334,26.033333,"Fetească Albă, Welschriesling, Pinot Gris, Muscat Ottonel, Tămâioasă Românească","Cabernet Sauvignon, Merlot, Pinot Noir, Burgund Mare, Fetească Neagră",,Romania
+Moldavia,47.158455,27.601442,"Fetească Albă, Fetească Regală, Welschriesling, Tămâioasă Românească, Grasă de Cotnari, Frâncușă","Cabernet Sauvignon, Merlot, Băbească Neagră, Fetească Neagră",,Romania
+Dobruja (Dobrogea),45.1500,28.8333,"Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Pinot Noir, Merlot, Cabernet Sauvignon, Dimyat",,Romania
+Struma Valley,41.8333,23.1167,"Broad-Leaf Melnik (Shiroka Melnishka Loza), Melnik, Cabernet Sauvignon, Merlot, Syrah","Mavrud, Rubin, Merlot, Cabernet Sauvignon",,Bulgaria
+Thracian Valley,42.1500,25.5500,"Chardonnay, Sauvignon Blanc, Muscat Ottonel, Pamid","Mavrud, Merlot, Cabernet Sauvignon, Rubin",,Bulgaria
+Rose Valley,42.6170,25.4000,"Red Misket, Chardonnay, Muscat, Traminer, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Syrah",,Bulgaria
+Black Sea,42.6883,27.7139,"Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Pinot Noir, Merlot, Cabernet Sauvignon, Dimyat",,Bulgaria
+Danubian Plain,43.2500,25.3333,"Riesling, Muscat Ottonel, Chardonnay, Aligote, Pamid","Kadarka, Merlot, Cabernet Sauvignon",,Bulgaria
+British Columbia,53.7267,-127.6476,"Chardonnay, Pinot Gris, Riesling, Gewürztraminer, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Traminer, Aligote","Merlot, Pinot Noir, Cabernet Sauvignon, Cabernet Franc, Syrah, Gamay Noir Noir",,Canada
+Quebec,46.0199,-71.9824,"Vidal, Seyval Blanc, Frontenac Blanc, St. Pepin, Chardonnay, Pinot Gris, Chenin Blanc, Gewürztraminer","Frontenac Noir Noir, Marquette, Petit Pearl, Baco Noir, Marechal Foch, Cabernet Franc, Pinot Noir",,Canada
+Ontario,50.0000,-85.0000,"Riesling, Sauvignon Blanc, Pinot Gris, Chardonnay, Vidal, Gewürztraminer","Cabernet Franc, Cabernet Sauvignon, Merlot, Pinot Noir, Gamay Noir Noir, Baco Noir",,Canada
+Nova Scotia,45.0000,-63.0000,"L'Acadie Blanc, Seyval Blanc, Vidal Blanc, New York Muscat, Chardonnay, Riesling, Sauvignon Blanc","Baco Noir, Marechal Foch, Lucie Kuhlmann, Leon Millot, Castel, Pinot Noir, Gamay Noir",,Canada
+California,36.778259,-119.417931,"Chardonnay, Sauvignon Blanc, Semillón, Muscadelle, Sauvignon Gris, Pinot Gris, Riesling, Gewürztraminer","Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec, Carménère, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah",,Estats_Units
+Oregon,44.000000,-120.500000,"Pinot Gris, Chardonnay, Riesling, Sauvignon Blanc, Gewürztraminer, Pinot Blanc","Pinot Noir, Syrah, Cabernet Sauvignon, Merlot, Tempranillo, Gamay Noir",,Estats_Units
+Washington,47.751076,-120.740135,"Riesling, Chardonnay, Sauvignon Blanc, Gewürztraminer, Pinot Gris","Cabernet Sauvignon, Merlot, Syrah, Cabernet Franc, Malbec, Pinot Noir",,Estats_Units
+Pennsylvania,41.203323,-77.194527,"Chardonnay, Riesling, Vidal Blanc, Seyval Blanc, La Crescent","Cabernet Franc, Merlot, Pinot Noir, Chambourcin, Baco Noir, Frontenac Noir, Marquette",,Estats_Units
+Connecticut,41.599998,-72.699997,"Seyval Blanc, Vidal Blanc, La Crescent","Cabernet Franc, Chardonnay, Pinot Noir, Baco Noir, Frontenac Noir, Marquette",,Estats_Units
+Massachusetts,42.407211,-71.382439,"Chardonnay, Riesling, Seyval Blanc, Vidal Blanc, La Crescent","Cabernet Sauvignon, Pinot Noir, Concord, Maréchal Foch",,Estats_Units
+Baja Norte (Baja California),29.9500,-115.1167,"Chenin Blanc, Sauvignon Blanc, Chardonnay, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot, Malbec, Carménère, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah, Tempranillo, Nebbiolo, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Sonora,29.2972,-110.3309,"Chenin Blanc, Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Nebbiolo, Cabernet Sauvignon, Merlot, Cabernet Franc, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah, Tempranillo, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Durango,24.0277,-104.6532,"Sauvignon Blanc, Chenin Blanc, Chardonnay, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Cabernet Sauvignon, Tempranillo, Merlot, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah, Nebbiolo, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Coahuila,27.3000,-102.0500,"Chardonnay, Chenin Blanc, Muscat de Alexandria, Verdejo","Cabernet Sauvignon, Cabernet Franc, Caladoc, Malbec, Pinot Noir, Ruby Cabernet, Shiraz, Tempranillo",,Mexic
+Zacatecas,22.7684,-102.5814,"Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Malbec, Nebbiolo, Cabernet Sauvignon, Merlot, Cabernet Franc, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah, Tempranillo, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Aguascalientes,21.8823,-102.2826,"Sauvignon Blanc, Chardonnay, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Cabernet Sauvignon, Malbec, Merlot, Cabernet Franc, Syrah, Garnacha, Mourvèdre, Pinot Noir, Zinfandel, Petit Sirah, Tempranillo, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Querétaro,20.5881,-100.3881,"Xarel·lo, Macabeo, Chardonnay, Viognier, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Pinot Noir, Syrah, Merlot, Marselan, Malbec, Tempranillo, Cabernet Sauvignon, Garnacha, Mourvèdre, Zinfandel, Petit Sirah, Sangiovese, Ruby Cabernet, Palomino, Trousseau Gris, Rosa del Peru, Listan Prieto, Cariñena, Montepulciano",,Mexic
+Vale do São Francisco,-9.3825,-40.5022,"Sauvignon Blanc, Chenin Blanc, MoscatellCanelli, Viognier, Moscatell Blanc, Moscatell Ottonel, Trebbiano, Riesling, Traminer, Aligote","Cabernet Sauvignon, Syrah, Tempranillo, Alicante Bouschet, Touriga Nacional, Aragonês, Barbera, Petit Sirah",,Brasil
+Planalto Catarinense,-27.0703,-52.8656,"Chardonnay, Sauvignon Blanc, Pinot Gris, Riesling, Muscat Blanc, Muscat Ottonel, Trebbiano, Traminer, Aligote","Merlot, Cabernet Sauvignon, Pinot Noir, Malbec",,Brasil
+Campos de Cima da Serra,-29.0000,-50.0000,Chardonnay,"Merlot, Pinot Noir",,Brasil
+Serra Gaúcha,-29.0000,-51.5000,"Chardonnay, Semillón, Sauvignon Blanc, Muscat, Welschriesling","Merlot, Cabernet Sauvignon, Cabernet Franc, Tannat, Pinot Noir",,Brasil
+Serra do Sudeste,-30.5000,-53.5000,"Sauvignon Blanc, Malvasia","Cabernet Franc, Merlot, Pinot Noir, Tannat, Touriga Nacional, Alicante Bouschet",,Brasil
+Campanha Gaúcha,-31.5000,-53.3667,"Sauvignon Blanc, Chardonnay, Pinot Gris, Gewürztraminer","Cabernet Sauvignon, Tempranillo, Touriga Nacional, Tannat, Syrah",,Brasil
+Canelones,-34.5250,-56.2807,"Pinot Blanc, Chenin Blanc, Sauvignon Blanc, Chardonnay, Albariño, Marsanne, Petit Manseng, Torrontés, Riesling","Tannat, Nebbiolo, Nero d'Avola, Zinfandel, Cabernet Franc, Cabernet Sauvignon, Merlot, Syrah",,Uruguay
+San José,-34.3378,-56.7139,"Sauvignon Blanc, Viognier, Chardonnay","Tannat, Merlot, Cabernet Franc, Pinot Noir",,Uruguay
+Colonia,-34.4606,-57.8333,"Sauvignon Blanc, Chardonnay","Tannat, Cabernet Sauvignon, Merlot",,Uruguay
+Artigas,-30.4000,-56.4667,,,,Uruguay
+Rivera,-30.9000,-55.5500,Chardonnay,"Tannat, Cabernet Sauvignon, Pinot Noir, Cabernet Franc",,Uruguay
+Salto,-31.3833,-57.9667,"Sauvignon Blanc, Chardonnay","Tannat, Cabernet Sauvignon, Merlot",,Uruguay
+Paysandú,-32.3214,-58.0756,,,,Uruguay
+Florida,-34.0956,-56.2146,,,,Uruguay
+Montevideo,-34.9011,-56.1645,"Sauvignon Blanc, Viognier, Chardonnay","Tannat, Merlot, Cabernet Sauvignon, Cabernet Franc",,Uruguay
+Maldonado,-34.9000,-54.9500,"Viognier, Albariño",Tannat,,Uruguay
+Ica,-14.067,-75.733,"Sauvignon Blanc, Chardonnay, Muscat, Torrontés, Albillo, Italia, Moscatell","Cabernet Sauvignon, Malbec, Tannat, Merlot, Syrah, Quebranta, Negra Criolla, Mollar, Torontel, Uvina, Alicante Bouschet, Carménère, Garnacha, Touriga Nacional",,Peru
+Lima,-12.046374,-77.042793,"Sauvignon Blanc, Chardonnay, Muscat, Torrontés, Albillo, Italia, Moscatell","Cabernet Sauvignon, Malbec, Tannat, Merlot, Syrah, Quebranta, Negra Criolla, Mollar, Torontel, Uvina, Alicante Bouschet, Carménère, Garnacha, Touriga Nacional",,Peru
+Moquegua,-17.19832,-70.93567,"Sauvignon Blanc, Chardonnay, Muscat, Torrontés, Albillo, Italia, Moscatell","Cabernet Sauvignon, Malbec, Tannat, Merlot, Syrah, Quebranta, Negra Criolla, Mollar, Torontel, Uvina, Alicante Bouschet, Carménère, Garnacha, Touriga Nacional",,Peru
+Arequipa,-16.33333,-71.5,"Sauvignon Blanc, Chardonnay, Muscat, Torrontés, Albillo, Italia, Moscatell","Cabernet Sauvignon, Malbec, Tannat, Merlot, Syrah, Quebranta, Negra Criolla, Mollar, Torontel, Uvina, Alicante Bouschet, Carménère, Garnacha, Touriga Nacional",,Peru
+Ancash,-9.42122,-77.69211,,,,Peru
+La Libertad,-8.0000,-78.4999,,,,Peru
+Valle del Elqui,-30.0000,-70.0000,"Sauvignon Blanc, Chardonnay, Muscat, Torrontés, Albillo, Italia, Moscatell","Cabernet Sauvignon, Malbec, Tannat, Merlot, Syrah, Quebranta, Negra Criolla, Mollar, Torontel, Uvina, Alicante Bouschet, Carménère, Garnacha, Touriga Nacional",,Xile
+Valle del Limarí,-30.0000,-70.0000,"Chardonnay, Sauvignon Blanc","Carménère, Syrah",,Xile
+Valle del Choapa,-31.6670,-71.0000,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Syrah",,Xile
+Valle del Aconcagua,-32.6532,-70.0109,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Syrah, Pinot Noir, Merlot",,Xile
+Valle de Casablanca,-33.0000,-71.0000,"Sauvignon Blanc, Chardonnay","Pinot Noir, Syrah",,Xile
+Valle de San Antonio,-33.0000,-71.0000,"Sauvignon Blanc, Chardonnay","Pinot Noir, Syrah",,Xile
+Valle del Maipo,-33.6333,-70.3500,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Merlot, Carménère, Syrah",,Xile
+Valle del Cachapoal,-34.0000,-72.0000,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Merlot, Carménère, Syrah",,Xile
+Valle de Colchagua,-34.6833,-71.1500,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Carménère, Syrah, Cabernet Franc, Malbec, Petit Verdot",,Xile
+Marchigüe,-34.0000,-71.0000,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Carménère, Syrah, Cabernet Franc, Malbec, Petit Verdot",,Xile
+Lolol,-34.0000,-71.0000,"Chardonnay, Sauvignon Blanc","Cabernet Sauvignon, Carménère, Syrah, Cabernet Franc, Malbec, Petit Verdot",,Xile
+Valle del Curicó,-34.9854,-71.2394,"Sauvignon Blanc, Chardonnay, Gewürztraminer","Cabernet Sauvignon, Merlot, Carménère, Malbec, Syrah",,Xile
+Valle del Maule,-35.0000,-71.0000,"Chardonnay, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Cabernet Franc, Pinot Noir, Cinsault, Syrah, Cariñena, País",,Xile
+Valle del Itata,-36.0000,-72.0000,"Muscat of Alexandria, Chardonnay","Cariñena, País, Cabernet Sauvignon, Cabernet Franc, Pinot Noir, Cinsault, Syrah",,Xile
+Valle del Biobío,-37.3391,-72.4107,"Chardonnay, Sauvignon Blanc, Riesling","Pinot Noir, Cinsault, Muscat of Alexandria",,Xile
+Valle del Malleco,-38.2500,-72.2500,"Chardonnay, Sauvignon Blanc, Riesling","Pinot Noir, Cinsault, Muscat of Alexandria",,Xile
+Salta,-24.782932,-65.412155,"Torrontés, Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Cabernet Sauvignon, Malbec, Merlot, Tannat",,Argentina
+Tucumán,-26.808285,-65.217590,"Torrontés, Chardonnay, Sauvignon Blanc, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Malbec, Cabernet Franc, Cabernet Sauvignon",,Argentina
+Catamarca,-28.469581,-65.779544,"Torrontés, Pedro Giménez, Moscatell de Alejandría","Cabernet Sauvignon, Malbec, Syrah, Cereza",,Argentina
+La Rioja,-29.000000,-67.000000,"Torrontés, Chardonnay, Viognier, Chenin Blanc, Sauvignon Blanc","Malbec, Cabernet Sauvignon, Bonarda, Syrah, Merlot",,Argentina
+San Juan,-31.537500,-68.536390,"Torrontés, Chardonnay, Viognier, Chenin Blanc, Sauvignon Blanc","Syrah, Malbec, Bonarda, Cabernet Sauvignon, Merlot",,Argentina
+Mendoza,-32.888355,-68.838844,"Torrontés, Chardonnay, Sauvignon Blanc, Semillón, Muscat Blanc, Muscat Ottonel, Trebbiano, Riesling, Traminer, Aligote","Malbec, Cabernet Sauvignon, Merlot, Bonarda, Tempranillo, Syrah",,Argentina
+La Pampa,-36.616700,-64.283300,"Chardonnay, Sauvignon Blanc, Semillón","Malbec, Cabernet Sauvignon, Merlot, Cabernet Franc",,Argentina
+Río Negro,-40.481197,-67.614591,"Sauvignon Blanc, Semillón","Malbec, Merlot, Pinot Noir",,Argentina
+Western Australia,-25.042261,117.793221,"Chardonnay, Sauvignon Blanc, Semillón, Riesling","Cabernet Sauvignon, Merlot, Shiraz, Pinot Noir",,Australia
+South Australia,-30.000233,136.209152,"Chardonnay, Riesling, Sauvignon Blanc, Semillón, Viognier","Shiraz, Cabernet Sauvignon, Garnacha, Pinot Noir, Tempranillo, Petit Verdot, Merlot, Cabernet Franc, Malbec, Chenin Blanc",,Australia
+Victoria,-37.020100,144.964600,"Chardonnay, Sauvignon Blanc, Semillón, Viognier","Shiraz, Cabernet Sauvignon, Pinot Noir, Merlot, Malbec, Petit Verdot",,Australia
+New South Wales,-31.840233,145.612793,"Chardonnay, Semillón, Riesling, Sauvignon Blanc, Verdejo","Shiraz, Cabernet Sauvignon, Pinot Noir, Tempranillo",,Australia
+Tasmania,-42.880554,147.324997,"Chardonnay, Sauvignon Blanc, Riesling, Pinot Gris","Pinot Noir, Cabernet Sauvignon, Cabernet Franc, Merlot",,Australia
+South Burnett,-26.400770,151.601660,"Semillón, Verdejo, Viognier","Sangiovese, Shiraz",,Australia
+Granite Belt,-28.654250,151.933880,"Chardonnay, Verdejo","Shiraz, Cabernet Sauvignon, Merlot",,Australia
+Central Otago,-45.0000,169.0000,"Chardonnay, Riesling, Sauvignon Blanc, Pinot Gris, Gewürztraminer","Pinot Noir, Syrah",,Nova_Zelanda
+Canterbury,-43.5303,172.6324,"Chardonnay, Riesling, Sauvignon Blanc, Pinot Gris",Pinot Noir,,Nova_Zelanda
+Nelson,-41.2706,173.2840,"Sauvignon Blanc, Chardonnay, Pinot Gris",Pinot Noir,,Nova_Zelanda
+Marlborough,-41.6667,173.5000,"Sauvignon Blanc, Chardonnay, Riesling, Pinot Gris",Pinot Noir,,Nova_Zelanda
+Waipara,-43.0000,172.8000,"Sauvignon Blanc, Riesling, Pinot Gris, Chardonnay",Pinot Noir,,Nova_Zelanda
+Hawke’s Bay,-39.4413,176.9638,"Chardonnay, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Syrah",,Nova_Zelanda
+Gisborne,-38.6623,178.0177,"Chardonnay, Pinot Gris, Sauvignon Blanc, Gewürztraminer","Merlot, Syrah",,Nova_Zelanda
+Waikato,-37.7833,175.2833,"Chardonnay, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Syrah",,Nova_Zelanda
+Auckland,-36.8485,174.7633,"Chardonnay, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Syrah",,Nova_Zelanda
+Northland,-35.3708,173.8849,"Chardonnay, Sauvignon Blanc","Merlot, Cabernet Sauvignon, Syrah",,Nova_Zelanda
+Breedekloof,-33.6833,19.4500,"Chenin Blanc, Sauvignon Blanc, Chardonnay, Colombard","Cabernet Sauvignon, Shiraz, Pinotage",,Sud_Africa
+Robertson,-33.8087,19.8892,"Chenin Blanc, Chardonnay, Sauvignon Blanc, Colombard","Cabernet Sauvignon, Shiraz, Pinotage, Merlot",,Sud_Africa
+Worcester,-33.6463,19.4486,"Chenin Blanc, Sauvignon Blanc, Chardonnay, Colombard","Cabernet Sauvignon, Shiraz, Pinotage, Merlot",,Sud_Africa
+Cape Agulhas,-34.8333,20.0000,"Sauvignon Blanc, Chardonnay","Pinot Noir, Shiraz",,Sud_Africa
+Overberg,-34.2000,19.5000,"Sauvignon Blanc, Chardonnay, Pinot Gris","Pinot Noir, Shiraz, Cabernet Sauvignon",,Sud_Africa
+Plettenberg Bay,-34.0527,23.3634,"Sauvignon Blanc, Chardonnay","Pinot Noir, Shiraz",,Sud_Africa
+Walker Bay,-34.3500,19.3000,"Sauvignon Blanc, Chardonnay, Pinot Gris","Pinot Noir, Shiraz, Cabernet Sauvignon",,Sud_Africa
+Elgin,-34.1500,19.0167,"Sauvignon Blanc, Chardonnay, Pinot Gris","Pinot Noir, Shiraz",,Sud_Africa
+Swellendam,-34.0200,20.4400,"Sauvignon Blanc, Chardonnay","Pinot Noir, Shiraz, Cabernet Sauvignon",,Sud_Africa
+Stellenbosch,-33.9321,18.8602,"Sauvignon Blanc, Chardonnay, Semillón, Chenin Blanc","Cabernet Sauvignon, Merlot, Pinotage, Shiraz, Cabernet Franc, Malbec, Petit Verdot",,Sud_Africa
+Paarl,-33.7155,18.9662,"Sauvignon Blanc, Chardonnay, Semillón, Chenin Blanc","Cabernet Sauvignon, Merlot, Pinotage, Shiraz, Cabernet Franc, Malbec, Petit Verdot",,Sud_Africa
+Swartland,-33.3669,18.7830,"Chenin Blanc, Sauvignon Blanc, Chardonnay","Pinotage, Shiraz, Cabernet Sauvignon, Merlot",,Sud_Africa
+Darling,-33.3756,18.3861,"Sauvignon Blanc, Chardonnay","Pinot Noir, Shiraz, Cabernet Sauvignon",,Sud_Africa
+Tulbagh,-33.2833,19.1333,"Sauvignon Blanc, Chardonnay, Semillón, Chenin Blanc","Cabernet Sauvignon, Merlot, Pinotage, Shiraz, Cabernet Franc, Malbec, Petit Verdot",,Sud_Africa
+Wellington,-33.6405,19.0097,"Sauvignon Blanc, Chardonnay, Semillón, Chenin Blanc","Cabernet Sauvignon, Merlot, Pinotage, Shiraz, Cabernet Franc, Malbec, Petit Verdot",,Sud_Africa
+Tygerberg,-33.8333,18.6500,"Sauvignon Blanc, Chardonnay","Pinot Noir, Shiraz, Cabernet Sauvignon",,Sud_Africa
+Constantia,-34.0258,18.4197,"Sauvignon Blanc, Chardonnay","Cabernet Sauvignon, Pinotage, Shiraz",,Sud_Africa
+Franschhoek Valley,-33.9091,19.1256,"Sauvignon Blanc, Chardonnay, Semillón, Chenin Blanc","Cabernet Sauvignon, Merlot, Pinotage, Shiraz, Cabernet Franc, Malbec, Petit Verdot",,Sud_Africa
+Klein Karoo,-33.5000,21.5000,"Chenin Blanc, Sauvignon Blanc, Chardonnay","Pinotage, Shiraz, Cabernet Sauvignon, Merlot",,Sud_Africa
+Calitzdorp,-33.5353,21.6869,"Chenin Blanc, Sauvignon Blanc, Chardonnay","Pinotage, Shiraz, Cabernet Sauvignon, Merlot",,Sud_Africa
+Langeberg-Garcia,-33.8000,20.0000,"Chenin Blanc, Sauvignon Blanc, Chardonnay","Pinotage, Shiraz, Cabernet Sauvignon, Merlot",,Sud_Africa
+Olifants River,-31.0000,18.5000,"Sauvignon Blanc, Chardonnay","Cabernet Sauvignon, Merlot, Shiraz",,Sud_Africa
+Batroun,34.25528,35.65806,"Merweh, Viognier, Chardonnay, Obeideh, Muscat, Riesling","Cabernet Franc, Syrah, Mourvèdre, Pinot Noir, Cabernet Sauvignon, Merlot, Cinsault",,Liban
+Central Bekaa,33.8333,35.5000,"Sauvignon Blanc, Chardonnay, Viognier","Cabernet Sauvignon, Merlot, Cinsault, Cariñena, Garnacha",,Liban
+The West Bekaa,33.8333,35.5000,"Sauvignon Blanc, Chardonnay, Viognier","Cabernet Sauvignon, Merlot, Cinsault, Cariñena, Garnacha",,Liban
+Baabda-Aley,33.833797,35.544144,"Chardonnay, Sauvignon Blanc, Viognier, Muscat","Cabernet Sauvignon, Merlot, Syrah, Mourvèdre, Cariñena",,Liban
+Keserwan,34.1000,35.8000,"Chardonnay, Sauvignon Blanc, Viognier","Cabernet Sauvignon, Merlot, Syrah, Mourvèdre, Cariñena",,Liban
+Metn,33.8301903,35.5424599,"Chardonnay, Sauvignon Blanc, Viognier","Cabernet Sauvignon, Merlot, Syrah, Mourvèdre, Cariñena",,Liban
+Chouf,33.6120,35.6290,"Chardonnay, Sauvignon Blanc, Viognier","Cabernet Sauvignon, Merlot, Syrah, Mourvèdre, Cariñena",,Liban
+Jezzine,33.5417,35.5844,"Merwah, Obeideh, Meksassi","Cabernet Sauvignon, Merlot, Syrah, Mourvèdre, Cariñena",,Liban
