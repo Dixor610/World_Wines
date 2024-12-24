@@ -1,23 +1,27 @@
 block_cipher = None
 
 a = Analysis(
-    ['src/app.py'],
-    pathex=['N:\\Doct\\Codes\\World_Wines'],
-    binaries=[],
+    ['src/app.py'],  # Entry point to your application
+    pathex=['World_Wines'],  # Base path of your project
+    binaries=[],  # No binary files
     datas=[
-        ('src/templates', 'templates'),
-        ('src/data', 'data'),
-        ('src/static', 'static')
+        ('src/templates', 'templates'),  # Include templates folder
+        ('src/static', 'static'),        # Include static folder
+        ('src/data', 'data'),            # Include data folder
     ],
     hiddenimports=[
         'folium',
         'flask',
-        'pandas'
+        'pandas',
+        'jinja2',
+        'werkzeug',
+        'flask.templating',
+        'folium.plugins'
     ],
     hookspath=[],
     runtime_hooks=[],
     excludes=[
-        'data_processing',
+        'src/data_processing.py',  # Exclude the script you don't need
         '.git',
         '.gitignore',
         'README.md'
@@ -32,17 +36,24 @@ pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 
 exe = EXE(
     pyz,
-    a.scripts,
-    a.binaries,
-    a.zipfiles,
-    a.datas,
+    a.scripts,  # Use the scripts automatically found by Analysis
     [],
+    exclude_binaries=True,  # Don't duplicate binaries in EXE
     name='WineMap',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    upx_exclude=[],
-    runtime_tmpdir=None,
     console=True
+)
+
+coll = COLLECT(
+    exe,
+    a.binaries,
+    a.zipfiles,
+    a.datas,  # Collect all the data files specified earlier
+    strip=False,
+    upx=True,
+    upx_exclude=[],
+    name='WineMap'
 )
